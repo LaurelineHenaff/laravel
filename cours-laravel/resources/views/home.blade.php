@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
+    <link rel="shortcut icon" type="image/x-icon" href="logo-laravel.ico" />
     <meta charset="utf-8">
     <style>
       body{
@@ -12,8 +13,8 @@
       form{
         padding-top: 1.5rem;
       }
-    </style>
-    <title>Cours Lavarel</title>
+    </style>    
+  <title>Cours Lavarel</title>
   </head>
   <body>
     <form method="get" action="{{ route('welcome') }}">
