@@ -15,7 +15,7 @@ class BasicAuth
    */
   public function handle($request, Closure $next)
   {
-      $AUTH_USER = ['Machin', 'Bidule', 'Truc']; //Les utilisateurs connus
+      $AUTH_USER = ['Laureline', 'Jane', 'John', 'Emma', 'Regina', 'Billy']; //Les utilisateurs connus
 
       if (in_array($request->Input('nom'),$AUTH_USER)){
           //L'utilisateur est connu, je vais vers la prochaine route
