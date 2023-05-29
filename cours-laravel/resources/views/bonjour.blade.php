@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <link rel="shortcut icon" type="image/x-icon" href="hello.ico" />
+    <link rel="stylesheet" href="css/style.css">
     <title>Bonjour !</title>    
     <style>
       a{

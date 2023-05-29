@@ -2,6 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <link rel="shortcut icon" type="image/x-icon" href="logo-laravel.ico" />
+    <link rel="stylesheet" href="css/style.css">
     <meta charset="utf-8">
     <style>
       body{
